@@ -1,0 +1,20 @@
+h2 {
+    background-color: aquamarine;
+     border: 50px;
+    color: slateblue;
+} 
+
+ul {
+    background-color: rgb(105, 255, 118);
+}
+    
+button {
+    
+        border-radius: 20px;
+
+        width: 200px;
+        color: brown;
+}
+ img {
+    border-radius: 20px;
+ }
